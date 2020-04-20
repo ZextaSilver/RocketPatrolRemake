@@ -66,3 +66,5 @@ class Menu extends Phaser.Scene {
         }
     }
 }
+
+//fuck
